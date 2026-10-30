@@ -1,0 +1,6 @@
+# Archivos generados por Maven
+**/target/
+
+# Archivos de IntelliJ
+.idea/
+*.iml
